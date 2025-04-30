@@ -1,4 +1,4 @@
-A lightweight and user-friendly **to-do list** web app built with HTML, CSS, and JavaScript. Easily add, edit, delete, and filter your tasks — with support for saving them in the browser using localStorage.
+A lightweight and user-friendly **To-Do List** web app built with HTML, CSS, and JavaScript. Easily add, edit, delete, and filter your tasks — with support for saving them in the browser using localStorage.
 
 🚀 Features
 ✅ Add tasks by clicking "Add" or pressing Enter

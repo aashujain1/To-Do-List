@@ -1,4 +1,4 @@
-A lightweight and user-friendly **To-Do List** web app built with HTML, CSS, and JavaScript. Easily add, edit, delete, and filter your tasks — with support for saving them in the browser using localStorage.
+A lightweight and user-friendly **To-Do List** web app built with ** HTML, CSS, and JavaScript**. Easily add, edit, delete, and filter your tasks — with support for saving them in the browser using localStorage.
 
 🚀 Features
 ✅ Add tasks by clicking "Add" or pressing Enter
@@ -17,22 +17,3 @@ A lightweight and user-friendly **To-Do List** web app built with HTML, CSS, and
 HTML5
 CSS3
 Vanilla JavaScript (ES6+)
-
-📂 How to Use
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/todo-list-app.git
-cd todo-list-app
-Open index.html in your browser.
-
-That’s it! No build steps or frameworks required.
-
-✨ Future Improvements (Optional)
- Drag-and-drop reordering
-
- Dark mode toggle
-
- Task categories or tags# To-Do-List
